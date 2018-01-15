@@ -7,7 +7,7 @@ Change it out with these icon assets for a refreshed look.<sup>1</sup>
 
 ### Install:
 
-1) Download the icon assets.
+1) Download the [icon assets](https://github.com/natepnewton/caffeine-retina-dark-mode/blob/master/caffeine-retina-assets.zip).
 2) Quit `Caffeine.app`.
 3) Unzip the assets folder.
 4) Open your `Applications` folder and find `Caffeine.app`.
